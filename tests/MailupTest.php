@@ -1,8 +1,5 @@
 <?php
 namespace SirFaenor\MailupHttpClient\Tests;
-
-require_once __DIR__.'/../src/Client.php';
-
 use PHPUnit\Framework\TestCase;
 use SirFaenor\MailupHttpClient\Client;
 use Exception;
