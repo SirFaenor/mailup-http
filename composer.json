@@ -1,0 +1,16 @@
+{
+    "name": "sirfaenor/mailup-http",
+    "description": "Client for Mailup Http Api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emanuele Fornasier",
+            "email": "info@emanuelefornasier.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SirFaenor\\MailupHttpClient\\": "src/"
+        }
+    }
+}
