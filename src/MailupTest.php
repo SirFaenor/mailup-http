@@ -1,5 +1,5 @@
 <?php
-namespace SirFaenor\MailupHttpClient\Tests;
+namespace SirFaenor\MailupHttpClient;
 use PHPUnit\Framework\TestCase;
 use SirFaenor\MailupHttpClient\Client;
 use Exception;

@@ -12,10 +12,5 @@
         "psr-4": {
             "SirFaenor\\MailupHttpClient\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "SirFaenor\\MailupHttpClient\\Tests\\": "tests/"
-        }
     }
 }

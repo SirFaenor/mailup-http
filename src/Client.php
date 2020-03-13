@@ -12,11 +12,13 @@
  * 
  * @docs (Mailup) http://help.mailup.com/display/mailupapi/HTTP+API+Specifications
  * @author - Emanuele Fornasier
- * @version 2016/03/11
+ * @version 2020/03/13
  * 
  */
 namespace SirFaenor\MailupHttpClient;
-use \Exception as Exception;
+
+use  Exception;
+
 class Client {
 
 
